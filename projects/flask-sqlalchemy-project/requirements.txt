@@ -1,0 +1,14 @@
+python-dotenv
+pathlib
+
+# Automated tests
+pytest
+pytest-cov
+asyncpg
+Flask
+Flask-restx
+Flask-Login
+sqlalchemy
+psycopg2-binary
+flask-sqlalchemy
+Flask-Migrate

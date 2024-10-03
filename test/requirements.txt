@@ -1,0 +1,15 @@
+python-dotenv
+pathlib
+
+# Automated tests
+pytest
+pytest-cov
+asyncpg
+Flask
+Flask-restx
+Flask-Login
+flask-jwt-extended
+passlib[bcrypt]
+tortoise-orm
+aerich
+pyjwt
